@@ -14,6 +14,9 @@ This project is a Python-based implementation of the classic **Minesweeper** gam
 
 ## 🧹 File Overview
 
+### How to run
+Unzip minesweeper.zip and run runner.py.
+
 ### `minesweeper.py`
 
 Core logic:
